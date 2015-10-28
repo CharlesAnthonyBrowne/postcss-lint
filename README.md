@@ -1,3 +1,3 @@
 # postcss-lint
 
-A [PostCSS](https://github.com/postcss/postcss) plugin to lint vanilla CSS.
+A <a href="https://github.com/postcss/postcss" target="_blank">PostCSS</a>
