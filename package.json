@@ -1,7 +1,7 @@
 {
   "name": "postcssTest",
   "version": "0.0.0",
-  "description": "PostCSS plugin PLUGIN_DESC",
+  "description": "A PostCSS plugin to lint vanilla CSS.",
   "keywords": [
     "postcss",
     "css",
@@ -9,11 +9,11 @@
   ],
   "author": "Charles Browne <AUTHOR_EMAIL>",
   "license": "MIT",
-  "repository": "GITHUB_NAME/PLUGIN_NAME",
+  "repository": "CharlesAnthonyBrowne/postcss-lint",
   "bugs": {
-    "url": "https://github.com/GITHUB_NAME/PLUGIN_NAME/issues"
+    "url": "https://github.com/CharlesAnthonyBrowne/postcss-lint/issues"
   },
-  "homepage": "https://github.com/GITHUB_NAME/PLUGIN_NAME",
+  "homepage": "https://github.com/CharlesAnthonyBrowne/postcss-lint",
   "dependencies": {
     "postcss": "^5.0.2"
   },
